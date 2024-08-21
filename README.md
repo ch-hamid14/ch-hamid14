@@ -1,4 +1,4 @@
-[![MasterHead](<img width="400" src="https://media.licdn.com/dms/image/D4D12AQEwYz74Mf7XKA/article-cover_image-shrink_600_2000/0/1677431973169?e=2147483647&v=beta&t=XAXpJxyem6V0COVr2qwSxPLctoigzjSXhAa4PSHczMI">)
+[![MasterHead](https://media.licdn.com/dms/image/D4D12AQEwYz74Mf7XKA/article-cover_image-shrink_600_2000/0/1677431973169?e=2147483647&v=beta&t=XAXpJxyem6V0COVr2qwSxPLctoigzjSXhAa4PSHczMI)
 <h1 align="center">Hi 👋, I'm Hamid Ashraf</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
