@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Hamid Ashraf</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
@@ -10,7 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/ch_hamid14" target="blank"><img src="https://img.shields.io/twitter/follow/ch_hamid14?logo=twitter&style=for-the-badge" alt="ch_hamid14" /></a> </p>
 
+- 🔭 I’m currently working on [Madix-Soft-Pos](https://github.com/madixsoft/pos-app)
+
 - 🌱 I’m currently learning **Blockchain**
+
+- 👨‍💻 All of my projects are available at [https://github.com/ch-hamid14](https://github.com/ch-hamid14)
 
 - 💬 Ask me about **React, React Native, Electron**
 
@@ -20,6 +23,7 @@
 <p align="left">
 <a href="https://twitter.com/ch_hamid14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ch_hamid14" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hamidashraf14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamidashraf14" height="30" width="40" /></a>
+<a href="https://fb.com/hamid.ashraf.581" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hamid.ashraf.581" height="30" width="40" /></a>
 <a href="https://instagram.com/ch_hamid14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ch_hamid14" height="30" width="40" /></a>
 </p>
 
