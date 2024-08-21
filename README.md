@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Hamid Ashraf</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
-<img align="right" alt="coding-img" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3M3T7L02WbGsk9LjQN-3h6&ust=1724328635613000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMC98fCGhogDFQAAAAAdAAAAABBs" />
+<img align="right" alt="coding-img" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3M3T7L02WbGsk9LjQN-3h6&ust=1724328635613000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMC98fCGhogDFQAAAAAdAAAAABBs">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ch-hamid14&label=Profile%20views&color=0e75b6&style=flat" alt="ch-hamid14" /> </p>
 
