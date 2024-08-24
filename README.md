@@ -26,7 +26,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<ul align="left" style="list-style-type: disc; padding-left: 20px;">
+<ul align="center" style="list-style-type: disc; padding-left: 20px;">
   <li style="margin-bottom: 20px;">
     <div style="display: flex; flex-wrap: wrap; gap: 10px; padding: 10px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
