@@ -1,6 +1,9 @@
 ![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)
 <h1 align="center">Hi 👋, I'm Hamid Ashraf</h1>
 <h3 align="center">A Passionate Software Engineer</h3>
+<h3 align="left">About Me</h3>
+<p>I am passionate about leveraging my skills to contribute to impactful projects while continuously growing as a developer. I am eager to join a fast-growing company where I can further enhance my coding expertise and tackle new challenges. My goal is to continuously improve my technical abilities and elevate my skills to the next level, contributing to both personal and professional growth.
+</p>
 
 <img align="right" alt="coding-img" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
