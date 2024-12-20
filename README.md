@@ -10,7 +10,7 @@
 
 
 
-- 👨‍💻 I’m currently working with [https://erasoft.app/about.html)
+- 👨‍💻 I’m currently working with [Era Soft](https://erasoft.app/about.html)
 - 🔭 I’m currently working on [JKSol-Chat](https://github.com/ch-hamid14/jksol-chat)
 - 🌱 I’m currently learning **Blockchain**
 
