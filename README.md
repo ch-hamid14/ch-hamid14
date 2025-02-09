@@ -10,13 +10,13 @@
 
 
 
-- 👨‍💻 I’m currently working with [Era Soft](https://erasoft.app/about.html)
-- 🔭 I’m currently working on [JKSol-Chat](https://github.com/ch-hamid14/jksol-chat)
+- 👨‍💻 I’m currently working with [Alliance Tech](https://alliancetechltd.com/)
+- 🔭 I’m currently working on [Hive](https://hive-eight-rust.vercel.app/login)
 - 🌱 I’m currently learning **Blockchain**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ch-hamid14](https://github.com/ch-hamid14)
 
-- 💬 Ask me about **React, React Native, Electron**
+- 💬 Ask me about **React, React Native, Electron, Node Js, Express Js, MongoDb, PostgreSQL**
 
 - 📫 How to reach me **hamidashraf3440@gmail.com**
 - 📱 Whatsapp or Phone Call **+92301-3440375**
