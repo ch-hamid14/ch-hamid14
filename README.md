@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ch-hamid14](https://github.com/ch-hamid14)
 
-- 💬 Ask me about **React, React Native, Electron, Node Js, Express Js, MongoDb, PostgreSQL, Block chain**
+- 💬 Ask me about **React, React Native, Electron, Node Js, Express Js, MongoDb, PostgreSQL, Blockchain**
 
 - 📫 How to reach me **hamidashraf3440@gmail.com**
 - 📱 Whatsapp or Phone Call **+92301-3440375**
