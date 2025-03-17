@@ -11,7 +11,7 @@
 
 
 - 👨‍💻 I’m currently working with HDS Technical Services LLC.
-- 🔭 I’m currently working on [Hive](https://hive-eight-rust.vercel.app)
+- 🔭 I’m currently working on [Hive](https://hive-alpha.netlify.app/)
 - 🌱 I’m currently learning **Blockchain**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ch-hamid14](https://github.com/ch-hamid14)
