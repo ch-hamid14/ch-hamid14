@@ -10,7 +10,7 @@
 
 
 
-- 👨‍💻 I’m currently working with [Alliance Tech](https://alliancetechltd.com/)
+- 👨‍💻 I’m currently working with [HDS Technical Services LLC.]
 - 🔭 I’m currently working on [Hive](https://hive-eight-rust.vercel.app)
 - 🌱 I’m currently learning **Blockchain**
 
