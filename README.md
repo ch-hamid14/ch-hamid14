@@ -3,7 +3,7 @@
 <h3 align="center">A Passionate Software Engineer</h3>
 <h3 align="left">About Me</h3>
 <p>
-  Hi, I'm Hamid Ashraf, a Full Stack Developer with 3 years of experience working on diverse projects. I'm passionate about coding and constantly learning new technologies to solve real-world problems. My expertise spans both front-end and back-end development, and I enjoy building applications that enhance user experiences and streamline processes. On my GitHub, you’ll find a collection of projects showcasing my skills in various technologies, including React, Node.js, Electron Js and more. I'm always open to collaborating and exploring new opportunities to grow and innovate.
+  Hi, I'm Hamid Ashraf, a Full Stack Developer with 2+ years of experience working on diverse projects. I'm passionate about coding and constantly learning new technologies to solve real-world problems. My expertise spans both front-end and back-end development, and I enjoy building applications that enhance user experiences and streamline processes. On my GitHub, you’ll find a collection of projects showcasing my skills in various technologies, including React, Node.js, Electron Js and more. I'm always open to collaborating and exploring new opportunities to grow and innovate.
 </p>
 
 <img align="right" alt="coding-img" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
