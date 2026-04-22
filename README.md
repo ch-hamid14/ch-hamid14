@@ -10,8 +10,8 @@
 
 
 
-- 👨‍💻 I’m currently working with Al Mubader.
-- 🔭 I’m currently working on [Focus](https://focus.almubader.net/)
+- 👨‍💻 I’m currently working with More Grow Group.
+- 🔭 I’m currently working on [RS PAY](https://github.com/mhammad100/rs-pay)
 - 🌱 I’m currently learning **Blockchain**
 
 - 👨‍💻 All of my projects are available at [Hamid Ashraf](https://github.com/ch-hamid14)
